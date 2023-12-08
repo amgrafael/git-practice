@@ -1,15 +1,22 @@
-# git-practice
+# Git-Practice
 This is for practice, just to mess around.
 
 ## Dev
-- This is my line 1
-- This is my line 2
-- This is my line 3
-- This is my line 4
-- This is another line to see the update
+- The codes created here are for fun and not to be taken seriously.
 
-# Testing additional branches
-- Number 1
-- Number 2
-- Number 3
-- Number 4
+# Creating an eldenring Game
+- Step 1
+	- Create a game with 3 or 5 characters to choose from.
+- Step 2
+	- Provide each one with.
+		- Power level
+		- Speed
+		- Healing
+		- Magic Strenght
+		- Leadership
+- Step 3
+	- Make sure when the player is choosen, the host should know the pros and cons.
+- Step 4
+	- Create a story line that is interactive and can be played with some fun hidden games.
+- Step 5
+	- Make sure is at least 10+ interactions.
