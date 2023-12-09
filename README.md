@@ -1,5 +1,5 @@
 # Git-Practice
-This is for practice, just to mess around.
+This readme file will go over the eldenring game steps.
 
 ## Dev
 - The codes created here are for fun and not to be taken seriously.
