@@ -20,3 +20,7 @@ This is for practice, just to mess around.
 	- Create a story line that is interactive and can be played with some fun hidden games.
 - Step 5
 	- Make sure is at least 10+ interactions.
+- Step 6
+	- To make sure its fun, make sure its challenging.
+
+
