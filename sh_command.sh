@@ -5,5 +5,6 @@ ls -la <Looking for hidden files>
 ll <listing files>
 mkdir <creating a directory>
 cp <This is a copy command>
+touch <creating a file>
 
 
